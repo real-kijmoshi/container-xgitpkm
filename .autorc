@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "real-kijmoshi",
+  "repo": "container-xgitpkm",
+  "name": "real-kijmoshi",
+  "email": "94071547+real-kijmoshi@users.noreply.github.com",
+}
